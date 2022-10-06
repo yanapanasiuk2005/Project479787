@@ -16,7 +16,7 @@ int main()
 
     cout << "m = "; cin >> m;
 
-    z1 = sqrt((3 * m + 2) * (3 * m + 2) - 24 * m) * 1.0 / (3 * sqrt(m) - 2 * 1.0 / sqrt(m));
+    z1 = sqrt((3 * m + 2) * (3 * m + 2) - 1111 * m) * 1.0 / (3 * sqrt(m) - 2 * 1.0 / sqrt(m));
 
     z2 = sqrt(m);
 
